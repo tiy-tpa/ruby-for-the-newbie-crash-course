@@ -163,7 +163,7 @@ autoscale: true
 
 ---
 
-## Real World Ruby
+# [fit] Real World Ruby
 
 ^ Before we get into the details of programming in Ruby, what are some things you can do it Ruby?
 
@@ -247,14 +247,14 @@ autoscale: true
 
 ---
 
-# Sysadmin
+# [fit] Sysadmin
 
 ^ Systems administration
 ^ general scripting, XML,  CSV Parsing, FTP downloads
 
 ---
 
-# DEVOPS
+# [fit] DEVOPS
 
 ^ a portmanteau of "development" and "operations"
 
@@ -264,7 +264,7 @@ autoscale: true
 
 ---
 
-# Robots
+# [fit] Robots
 
 ---
 
@@ -288,7 +288,7 @@ autoscale: true
 
 ---
 
-# Syntax
+# [fit] Syntax
 
 ---
 
@@ -399,12 +399,12 @@ end
 
 ---
 
-# OOP
+# [fit] OOP
 ## Object oriented Programming
 
-> Ruby is an object oriented language.
+^ Ruby is an object oriented language.
 
-> Object-oriented programming (OOP) is a programming paradigm based on the concept of "objects", which are data structures that contain data, in the form of fields, often known as attributes; and code, in the form of procedures, often known as methods.
+^ Object-oriented programming (OOP) is a programming paradigm based on the concept of "objects", which are data structures that contain data, in the form of fields, often known as attributes; and code, in the form of procedures, often known as methods.
 
 ---
 
@@ -424,13 +424,13 @@ end
 
 ---
 
-# Hands on
+# [fit] Hands on
 
 ---
 
-# Let's Code!
+# [fit] Let's Code!
 
-## http://repl.it
+# http://repl.it
 
 ^ DO THE CODE!
 
@@ -478,11 +478,11 @@ end
 
 ---
 
-### http://learnrubythehardway.org/book/
+# [fit] http://learnrubythehardway.org/book/
 
 ---
 
-### http://cli.learncodethehardway.org/book/
+# [fit] http://cli.learncodethehardway.org/book/
 
 ---
 
@@ -490,6 +490,6 @@ end
 
 ---
 
-# Thank You
+# [fit] Thank You
 
 ---
