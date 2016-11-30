@@ -45,6 +45,14 @@ autoscale: true
 
 ---
 
+# improv
+
+![fit](media/improv.png)
+
+^ Started taking classes in improv comedy to become a better speaker, listener, and human being.
+
+---
+
 # Tampa Ruby
 
 ![fit](media/tampa-rb.png)
@@ -131,6 +139,10 @@ autoscale: true
 ![fit](media/laptop.jpg)
 
 ^ Now we write code on these.
+
+---
+
+![fit](media/ruby.png)
 
 ---
 
