@@ -44,6 +44,11 @@ autoscale: true
 ^ Built digital signage systems using Rails, Content Distribution Systems, and a custom Linux OS for embedded devices
 
 ---
+# Tampa Ruby
+
+![fit](media/tampa-rb.png)
+
+---
 
 # improv
 
@@ -53,11 +58,6 @@ autoscale: true
 
 ---
 
-# Tampa Ruby
-
-![fit](media/tampa-rb.png)
-
----
 
 ![fit](media/ruby-for-the-newbie.png)
 
