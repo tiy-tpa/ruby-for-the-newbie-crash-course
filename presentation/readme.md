@@ -205,10 +205,6 @@ autoscale: true
 
 ---
 
-![fit](media/twitter.jpg)
-
----
-
 ![fit](media/groupon.jpg)
 
 ---
@@ -278,19 +274,11 @@ autoscale: true
 
 ---
 
-# 3D Modeling & Visualization
-
----
-
-![fit](media/sketchup.jpg)
-
-^ Sketchup, popular tool, Acquired by Google, Scripting API in Ruby
-
----
-
 # [fit] Syntax
 
 ---
+
+# Math
 
 ```ruby
 
@@ -300,6 +288,8 @@ autoscale: true
 
 ---
 
+# Math
+
 ```ruby
 
 2 + 2 # => 4
@@ -307,6 +297,8 @@ autoscale: true
 ```
 
 ---
+
+# Comments
 
 ```ruby
 
@@ -320,6 +312,8 @@ autoscale: true
 
 ---
 
+# Variables
+
 ```ruby
 x = 5
 ```
@@ -327,6 +321,8 @@ x = 5
 ^ assignment to a variable
 
 ---
+
+# Math + Variables
 
 ```ruby
 x * 2 # => 10
@@ -336,6 +332,8 @@ x * 2 # => 10
 
 ---
 
+# Strings
+
 ```ruby
 s = "This is a string of characters."
 ```
@@ -344,83 +342,70 @@ s = "This is a string of characters."
 
 ---
 
+# Methods
+
 ```ruby
 s.upcase # => "THIS IS A STRING OF CHARACTERS."
 ```
 
 ---
 
+# Conditionals
+
 ```ruby
-def hello
-  puts "Hello, World!"
+name = "Jason"
+if name === "Jason"
+  puts "Hello there #{name}"
 end
 ```
 
-^ this defines a method called hello.
-
-^ everything between the def and the end are stored a procedure with the name “hello” and can be called later for execution
+^ conditionals
 
 ---
 
-```ruby
-hello
-> "Hello, World!"
-```
-
-^ printing, “Hello, World!”
-
----
+# User Input
 
 ```ruby
-def greet(name)
-  "Hello, " + name + "."
-end
-
-greet "Jason" # => "Hello, Jason."
-```
-
-^ define a method that takes an argument
-
----
-
-```ruby
-3.times do
-  puts greet("Jason")
+name = gets.chomp
+if name === "Jason"
+  puts "Hello there #{name}"
 end
 ```
 
-^ some methods use a special kind of argument called a block
+^ conditionals
 
-^ Parenthesis are not always optional
+---
+
+# Loops
+
+```ruby
+
+count = 1
+loop do
+  puts "The count is #{count}"
+  count += 1
+  if count > 10
+    break
+  end
+end
+
+# The count is 1
+# The count is 2
+# The count is 3
+# The count is 4
+# The count is 5
+# The count is 6
+# The count is 7
+# The count is 8
+# The count is 9
+# The count is 10
+```
+
+^ loop with break
 
 ---
 
 ![fit](media/zen.gif)
-
----
-
-# [fit] OOP
-## Object oriented Programming
-
-^ Ruby is an object oriented language.
-
-^ Object-oriented programming (OOP) is a programming paradigm based on the concept of "objects", which are data structures that contain data, in the form of fields, often known as attributes; and code, in the form of procedures, often known as methods.
-
----
-
-![fit](media/animal.png)
-
----
-
-![fit](media/animals.png)
-
-^ The class is like a blue print, we can create instances of it, that hold attributes, and references back to the method on the class.
-
----
-
-![fit](media/animals-code.png)
-
-^ Explain the class
 
 ---
 
